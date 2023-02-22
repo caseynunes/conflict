@@ -1,1 +1,1 @@
-# conflict
+this is a test file
